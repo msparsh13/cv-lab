@@ -1,0 +1,2 @@
+numpy>=1.24
+opencv-python>=4.5   # SIFT is in the main package since 4.4; contrib is not needed
